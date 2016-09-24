@@ -196,7 +196,7 @@
 				TargetAttributes = {
 					F9390A581D96DE890083830A = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = CNWDNX3S69;
+						DevelopmentTeam = HKDSJYTBTZ;
 						ProvisioningStyle = Automatic;
 					};
 					F9390A6F1D96DE8A0083830A = {
@@ -419,7 +419,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = CNWDNX3S69;
+				DEVELOPMENT_TEAM = HKDSJYTBTZ;
 				INFOPLIST_FILE = MusicPlayerDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "edu-self.MusicPlayerDemo";
@@ -432,7 +432,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = CNWDNX3S69;
+				DEVELOPMENT_TEAM = HKDSJYTBTZ;
 				INFOPLIST_FILE = MusicPlayerDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "edu-self.MusicPlayerDemo";
